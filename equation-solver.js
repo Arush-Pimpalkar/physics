@@ -3,6 +3,7 @@
 
 'use strict';
 
+// this is dummy comment
 debugger;
 var getNumber = require('./prompt').getNumber
 var getText = require('./prompt').getText
@@ -20,7 +21,7 @@ colors.setTheme({
     error: 'red'
 });
 var i = 1
-var ii = 1/0
+var ii = 1 / 0
 while (i < ii) {
     var hiyu = getText('Enter the known values(v/u/a/s/t)(minimum three values, with commas): ')
 
@@ -228,9 +229,9 @@ while (i < ii) {
         }
 
     }//correct10
-    else  {
+    else {
         console.log(colors.error('Command not defined'))
     }
     i++;
-}    
+}
 
