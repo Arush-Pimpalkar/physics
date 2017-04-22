@@ -1,0 +1,19 @@
+{
+  "name": "physics",
+  "version": "1.0.0",
+  "description": "git add . git commit -m \"what you changed\" git push",
+  "main": "equation-solver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arush-Pimpalkar/physics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arush-Pimpalkar/physics/issues"
+  },
+  "homepage": "https://github.com/Arush-Pimpalkar/physics#readme"
+}

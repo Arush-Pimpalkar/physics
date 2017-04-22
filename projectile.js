@@ -25,4 +25,4 @@ if (hyui == 'launch angle,speed of launch' || hyui == 'speed of launch,launch an
     console.log('The vertical displacement is: ' + sy1 + 'unit')
     console.log('The total time is: ' + tt1 + 'unit')
 }
-
+if (hyui = ) 
